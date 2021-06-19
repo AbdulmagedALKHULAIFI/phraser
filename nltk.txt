@@ -1,4 +1,4 @@
-The is a car.
+. The is a car.
 Will is running.
 The car is new.
 I'm taking the plane.
