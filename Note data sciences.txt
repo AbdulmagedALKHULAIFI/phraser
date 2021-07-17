@@ -1,0 +1,8 @@
+Combien de catégorie par cluster (matrice de confusion)
+
+Avant et après lemmezation corpus
+Analyse n-grams (n = 1,2,3)
+
+Varier les modèle de feature extractions et les comparer matrice de confusion, ARI et T-SNE.
+
+Sillhouate plot (comme dans le projet précedent)
