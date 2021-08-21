@@ -1,8 +1,57 @@
-Combien de catégorie par cluster (matrice de confusion)
+wrong answers
 
-Avant et après lemmezation corpus
-Analyse n-grams (n = 1,2,3)
+1.1,4
+2.2 good
+3.3 good
+4.2 good
+5.4,1 wrong
 
-Varier les modèle de feature extractions et les comparer matrice de confusion, ARI et T-SNE.
 
-Sillhouate plot (comme dans le projet précedent)
+v--------------------------------------------------------------------------------------------------------
+- Couleur blue light pour la matrice confusion non supervisé
+- Essayer de order les colonnes pour avoir les valeurs maximal sur le diagoal
+- USE avec le supervisé
+- Doc2vect 
+- Vérifier le score d'accuracy
+- Webinar sift sur Workplace : https://register.gotowebinar.com/recording/recordingView?webinarKey=6511447911664841744&registrantEmail=alkhulaifi.abdulmaged%40gmail.com
+
+
+--------------------------------------------------------------------------------------------------------
+
+Completer USE et BERT : https://medium.com/nerd-for-tech/key-feature-extraction-from-classified-summary-of-a-text-file-using-bert-c1472f7b493
+
+
+https://towardsdatascience.com/text-classification-with-nlp-tf-idf-vs-word2vec-vs-bert-41ff868d1794
+
+Graphic de sillouhaite score: https://vitalflux.com/elbow-method-silhouette-score-which-better/
+
+https://jakevdp.github.io/PythonDataScienceHandbook/05.11-k-means.html
+
+
+Split supervisé uniquement. 
+Compeléter Pipeline
+
+--------------------------------------------------------------------------------------------------------
+
+
+Natural language processing or NLP is a sub-field of machine learning which/whose the purpose is to render computers able to understand and to process human languages.
+
+In order to extract the meaning from text we will build a NLP pipeline. The pipeline will help us to break down the problem into small pieces.
+
+A common and classic plan to deal with NLP project is :
+
+Step 1: Sentence Segmentation : to consider that each sentenance is a thought or an idea
+
+Step 2: Word Tokenization: After split our document into sentences, now we breakup every sentence to in separated words or token(tokenization).
+
+Step 3: predict the part-of-speach of every token.
+
+Step 4: Lemmatization: to find the most basic form or lemma of each word in the sentence.
+
+Step 5: Identifying Stop Words: words like "and" and "the" are considered like nosy word because they appear more frequently.
+
+
+
+Corpus(vocabluary) is a collection of written or spoken language.
+
+Add examples

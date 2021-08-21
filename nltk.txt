@@ -2,3 +2,12 @@
 . Will is running .
 . The car is new .
 . I'm taking the plane .
+. If we add these irrelevant features in the model, it will just make the model worst (Garbage In Garbage Out) .
+. to filter Method .
+. wrapper Method .
+. to embed Method .
+. I started this initiative . 
+. He integrated an initiative .
+. It has been a great initiative .
+. He participates rarely in this initiative .
+. It is the dearest initiative to my heart .
