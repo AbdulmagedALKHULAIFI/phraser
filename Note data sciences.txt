@@ -1,8 +1,6 @@
 --------------------------------------------------------------------------------------------------------
 Exemple pertinent : https://www.kaggle.com/nicapotato/universal-sentence-encoder-clustering-poc
 
-- Couleur blue light pour la matrice confusion non supervisé
-- Essayer de order les colonnes pour avoir les valeurs maximal sur le diagoal
 - USE avec le supervisé
 - Doc2vect 
 - Vérifier le score d'accuracy
