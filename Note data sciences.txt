@@ -1,13 +1,6 @@
-wrong answers
+--------------------------------------------------------------------------------------------------------
+Exemple pertinent : https://www.kaggle.com/nicapotato/universal-sentence-encoder-clustering-poc
 
-1.1,4
-2.2 good
-3.3 good
-4.2 good
-5.4,1 wrong
-
-
-v--------------------------------------------------------------------------------------------------------
 - Couleur blue light pour la matrice confusion non supervisé
 - Essayer de order les colonnes pour avoir les valeurs maximal sur le diagoal
 - USE avec le supervisé
@@ -55,3 +48,7 @@ Step 5: Identifying Stop Words: words like "and" and "the" are considered like n
 Corpus(vocabluary) is a collection of written or spoken language.
 
 Add examples
+
+--------------------------------------------------------------------------------------------------------
+
+https://github.com/SmellyArmure/OC_DS_Project6
