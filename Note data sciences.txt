@@ -1,52 +1,26 @@
 --------------------------------------------------------------------------------------------------------
-Exemple pertinent : https://www.kaggle.com/nicapotato/universal-sentence-encoder-clustering-poc
 
-- USE avec le supervisé
-- Doc2vect 
-- Vérifier le score d'accuracy
+- USE avec le supervisé : Exemple pertinent : https://www.kaggle.com/nicapotato/universal-sentence-encoder-clustering-poc
+
 - Webinar sift sur Workplace : https://register.gotowebinar.com/recording/recordingView?webinarKey=6511447911664841744&registrantEmail=alkhulaifi.abdulmaged%40gmail.com
 
 
---------------------------------------------------------------------------------------------------------
-
-Completer USE et BERT : https://medium.com/nerd-for-tech/key-feature-extraction-from-classified-summary-of-a-text-file-using-bert-c1472f7b493
+- Image classificaiton youtube video: https://www.youtube.com/watch?v=PRceoMWcv1U&ab_channel=DigitalSreeni
 
 
-https://towardsdatascience.com/text-classification-with-nlp-tf-idf-vs-word2vec-vs-bert-41ff868d1794
-
-Graphic de sillouhaite score: https://vitalflux.com/elbow-method-silhouette-score-which-better/
-
-https://jakevdp.github.io/PythonDataScienceHandbook/05.11-k-means.html
+- example kmeans avec l'image des chiffres : Kmeans https://jakevdp.github.io/PythonDataScienceHandbook/05.11-k-means.html
 
 
-Split supervisé uniquement. 
-Compeléter Pipeline
 
 --------------------------------------------------------------------------------------------------------
 
 
-Natural language processing or NLP is a sub-field of machine learning which/whose the purpose is to render computers able to understand and to process human languages.
+Séparer les tables comparatifs modèles supervisé et non supervisé
+intégrer le USE supervisé
 
-In order to extract the meaning from text we will build a NLP pipeline. The pipeline will help us to break down the problem into small pieces.
-
-A common and classic plan to deal with NLP project is :
-
-Step 1: Sentence Segmentation : to consider that each sentenance is a thought or an idea
-
-Step 2: Word Tokenization: After split our document into sentences, now we breakup every sentence to in separated words or token(tokenization).
-
-Step 3: predict the part-of-speach of every token.
-
-Step 4: Lemmatization: to find the most basic form or lemma of each word in the sentence.
-
-Step 5: Identifying Stop Words: words like "and" and "the" are considered like nosy word because they appear more frequently.
-
-
-
-Corpus(vocabluary) is a collection of written or spoken language.
-
-Add examples
 
 --------------------------------------------------------------------------------------------------------
 
-https://github.com/SmellyArmure/OC_DS_Project6
+Montrer une illustration de chaque une étape de preprocessing des images
+
+Trouver le code de webinar
